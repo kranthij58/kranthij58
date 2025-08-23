@@ -16,7 +16,7 @@
 
 ### 🌐 My First Smart Contract:
 Deployed on **zkSync Era Testnet**  
-🔗 [https://sepolia.explorer.zksync.io/address/0xb39d52A122A18b40b575FA97a3Ba339f10a8252f](#) *(insert real link)*
+🔗 [https://sepolia.explorer.zksync.io/address/0xb39d52A122A18b40b575FA97a3Ba339f10a8252f](#) 
 
 ---
 
