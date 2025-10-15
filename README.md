@@ -1,34 +1,43 @@
-# 👋 Hey, I'm Kranthi
+# 👋 Hi, I'm Kranthi Juttiga
 
-🚀 Aspiring Blockchain Developer  
-🧱 Learning smart contracts, Solidity, and Web3 development  
-📚 Currently going through the **Cyfrin Updraft** program by **Patrick Collins**
+💻 **Aspiring Software Developer | Java | JavaScript | React | Problem Solving**
 
----
-
-### 🛠️ What I'm Working On:
-- Writing smart contracts in Solidity
-- Deploying to testnets like zkSync Era
-- Exploring dApp development
-- Making testnet transactions and learning by doing
+I'm passionate about building efficient, user-friendly, and reliable software solutions.  
+I enjoy turning ideas into real applications — from frontend interfaces to backend logic.  
+Currently focusing on strengthening my **DSA**, **Java backend**, and **web development** skills.
 
 ---
 
-### 🌐 My First Smart Contract:
-Deployed on **zkSync Era Testnet**  
-https://sepolia.explorer.zksync.io/address/0xb39d52A122A18b40b575FA97a3Ba339f10a8252f
+### 🚀 About Me
+- 🌱 Learning advanced **Java concepts**, **REST APIs**, and **React**
+- 💡 Interested in crafting scalable web applications and exploring automation tools
+- 🧩 Strong foundation in **HTML**, **CSS**, **JavaScript**, and **Java**
+- 📘 Continuously improving through projects, problem-solving, and open-source learning
 
 ---
 
-### 📌 Goals:
-- Master Ethereum development
-- Build real-world Web3 apps
-- Land a blockchain dev job 💼
+### 🛠 Tech Stack
+**Languages:** Java, JavaScript, HTML, CSS  
+**Frameworks/Libraries:** React, Node.js (basic), Express.js (learning)  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Concepts:** OOPs, DSA, RESTful APIs, MVC Architecture
 
 ---
 
-### 🧠 Learning In Public
-Follow along as I learn, build, break things, and improve.  
-Let’s connect and grow together in this space!
+### 📂 Featured Projects
+- 🧮 **Calculator App** – Simple and responsive calculator built with HTML, CSS, JS  
+- 📋 **Todo List App** – Task management app with dynamic DOM updates  
+- ✊ **Rock Paper Scissors Game** – Interactive browser-based game  
+- 🛍️ **Amazon Frontend Clone** – Built using HTML, CSS, and JS for layout and interactivity  
 
-#Blockchain #Web3 #Solidity #BuildInPublic
+> *More projects and Java-based applications coming soon...*
+
+---
+
+### 📫 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kranthi-juttiga-046064260)
+- 💻 [GitHub](https://github.com/kranthij58)
+
+---
+
+⭐️ *“Code is like humor — when you have to explain it, it’s bad.”*  
