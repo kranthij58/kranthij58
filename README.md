@@ -18,9 +18,9 @@ Currently focusing on strengthening my **DSA**, **Java backend**, and **web deve
 
 ### 🛠 Tech Stack
 **Languages:** Java, JavaScript, HTML, CSS  
-**Frameworks/Libraries:** React, Node.js (basic), Express.js (learning)  
-**Tools:** Git, GitHub, VS Code, Postman  
-**Concepts:** OOPs, DSA, RESTful APIs, MVC Architecture
+**Frameworks/Libraries:** React(learning)  
+**Tools:** Git, GitHub, VS Code, 
+**Concepts:** OOPs, DSA, RESTful APIs
 
 ---
 
