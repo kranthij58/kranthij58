@@ -1,4 +1,4 @@
-#👋 Hi, I'm Kranthi Juttiga
+# 👋 Hi, I'm Kranthi Juttiga
 
 💻 Aspiring Software Developer | Java | DSA | Web Development
 
