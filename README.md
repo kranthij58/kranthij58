@@ -17,16 +17,16 @@ Currently focusing on strengthening my Java fundamentals, data structures, and p
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Java, JavaScript, HTML, CSS , SQL
-**Frameworks/Libraries:** Spring and SpringBoot(learning)  
+**Languages:** Java, JavaScript, HTML, CSS, SQL
+**Frameworks/Libraries:** Spring and Spring Boot(learning)  
 **Tools:** Git, GitHub, VS Code, Maven.
-**Concepts:** OOP, DSA, 
+**Concepts:** OOP, DSA
 
 ---
 
 ### 📂 Featured Projects
 - ✊ **Rock Paper Scissors Game** – Interactive browser-based game  
-- 🛍️ **Amazon Frontend Clone** – Built using HTML, CSS, and JS for layout and interactivity  
+- 🛍️ **Amazon Frontend Clone** – Responsive UI built using HTML, CSS, and JavaScript
 
 > *More projects and Java-based applications coming soon...*
 
