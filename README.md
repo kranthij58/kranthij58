@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Kranthi Juttiga
+#👋 Hi, I'm Kranthi Juttiga
 
-💻 **Aspiring Software Developer | Java | JavaScript | React | Problem Solving**
+💻 Aspiring Software Developer | Java | DSA | Web Development
 
-I'm passionate about building efficient, user-friendly, and reliable software solutions.  
-I enjoy turning ideas into real applications — from frontend interfaces to backend logic.  
-Currently focusing on strengthening my **DSA**, **Java backend**, and **web development** skills.
+I'm passionate about building clean, reliable, and user-friendly software solutions.
+I enjoy converting ideas into working applications, from frontend interfaces to backend logic.
+Currently focusing on strengthening my Java fundamentals, data structures, and problem-solving skills.
 
 ---
 
 ### 🚀 About Me
-- 🌱 Learning advanced **Java concepts**, **REST APIs**, and **React**
+- 🌱 Learning advanced **Java concepts**, **REST APIs**.
 - 💡 Interested in crafting scalable web applications and exploring automation tools
 - 🧩 Strong foundation in **HTML**, **CSS**, **JavaScript**, and **Java**
 - 📘 Continuously improving through projects, problem-solving, and open-source learning
@@ -17,16 +17,14 @@ Currently focusing on strengthening my **DSA**, **Java backend**, and **web deve
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Java, JavaScript, HTML, CSS  
-**Frameworks/Libraries:** React(learning)  
-**Tools:** Git, GitHub, VS Code, 
-**Concepts:** OOPs, DSA, RESTful APIs
+**Languages:** Java, JavaScript, HTML, CSS , SQL
+**Frameworks/Libraries:** Spring and SpringBoot(learning)  
+**Tools:** Git, GitHub, VS Code, Maven.
+**Concepts:** OOP, DSA, 
 
 ---
 
 ### 📂 Featured Projects
-- 🧮 **Calculator App** – Simple and responsive calculator built with HTML, CSS, JS  
-- 📋 **Todo List App** – Task management app with dynamic DOM updates  
 - ✊ **Rock Paper Scissors Game** – Interactive browser-based game  
 - 🛍️ **Amazon Frontend Clone** – Built using HTML, CSS, and JS for layout and interactivity  
 
